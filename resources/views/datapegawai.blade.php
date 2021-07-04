@@ -9,7 +9,6 @@
 @section('content')
 
 <div class="container">
-    <!-- <h4 class="mb-4">Data Pegawai</h4> -->
 
     <div class="row">
         <div class="col">
